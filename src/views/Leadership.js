@@ -5,6 +5,7 @@ import { FaCrown, FaGavel, FaHandshake, FaFileAlt, FaBook, FaMoneyBillWave, FaHi
 export default function Leadership () {
   const officers = [
     { title: 'Team President', name: 'Pranav Balakrishnan', description: 'Leads the team and coordinates with coaching staff.', icon: <FaCrown className="text-yellow-500" /> },
+    { title: 'Team President', name: 'Landon Iley', description: 'Leads the team and coordinates with coaching staff.', icon: <FaCrown className="text-yellow-500" /> },
     { title: 'Individual Events Captain', name: 'Charlie Hui', description: 'Organizes and coordinates IE practice and assignments.', icon: <FaGavel className="text-amber-700" /> },
     { title: 'Lincoln Douglas Captain', name: 'Shaurya Pathania', description: 'Organizes and coordinates LD practice and research assignments.', icon: <FaGavel className="text-amber-700" /> },
     { title: 'Policy Captain', name: 'Ethan Andrew', description: 'Organizes and coordinates Policy practice and research assignments.', icon: <FaGavel className="text-amber-700" /> },

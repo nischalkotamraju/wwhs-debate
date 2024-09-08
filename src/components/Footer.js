@@ -7,9 +7,11 @@ export default function Footer () {
         <div className="flex flex-col items-center md:flex-row md:justify-between w-full">
           <p className="text-xs leading-5 text-gray-400 mb-2 md:mb-0">
             © 2024 Westwood High School Speech and Debate. All rights reserved.
+            <br />
+            Created by Nischal Kotamraju
           </p>
           <div className="flex space-x-4">
-            <a href="https://github.com/nischalkotamraju/westwood-debate" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/nischalkotamraju/wwhs-debate" className="text-gray-400 hover:text-white">
               <FaGithub className="text-lg" />
             </a>
             <a href="https://www.instagram.com/westwooddebate/?hl=en" className="text-gray-400 hover:text-white">
