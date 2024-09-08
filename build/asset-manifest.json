@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca3d4861.css",
+    "main.js": "/static/js/main.9afaf3a8.js",
+    "static/media/wwhs-debate-logo.jpeg": "/static/media/wwhs-debate-logo.7be949fcdf656012b3bc.jpeg",
+    "index.html": "/index.html",
+    "main.ca3d4861.css.map": "/static/css/main.ca3d4861.css.map",
+    "main.9afaf3a8.js.map": "/static/js/main.9afaf3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3d4861.css",
+    "static/js/main.9afaf3a8.js"
+  ]
+}

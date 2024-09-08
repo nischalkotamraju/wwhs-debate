@@ -1,0 +1,66 @@
+
+{
+  "first-year": {
+    "LD": [
+      {"rank": "1A", "name": "TDC Debate Institute", "location": "Austin, TX", "dates": "July 21 - August 3", "website": "https://texasdebatecollective.org/"},
+      {"rank": "1B", "name": "National Symposium for Debate - Flagship", "location": "Minneapolis, MN", "dates": "July 14 - August 3", "website": "https://www.nsdebatecamp.com/lincoln-douglas-minnesota"},
+      {"rank": "2A", "name": "The Debate Intensive", "location": "Los Angeles, CA", "dates": "July 28 - August 10", "website": "https://www.debateintensive.org/"},
+      {"rank": "2B", "name": "Victory Brief Institute - Philly", "location": "Philadelphia, PA", "dates": "June 29 - July 12", "website": "https://www.vbidebate.com/"},
+      {"rank": "3A", "name": "National Symposium for Debate - Houston", "location": "Houston, TX", "dates": "June 30 - July 13", "website": "https://www.nationalsymposiumfordebate.com/"},
+      {"rank": "3B", "name": "Mean Green Comet", "location": "Dallas, TX", "dates": "June 23 – July 6", "website": "https://debatecamp.utdallas.edu/"}
+    ],
+    "PF": [
+      {"rank": "1A", "name": "Public Forum Boot Camp", "location": "Minneapolis, MN", "dates": "July 7- July 17", "website": "https://www.publicforumboot.camp/"},
+      {"rank": "1B", "name": "Victory Brief Institute - LA", "location": "Los Angeles, CA", "dates": "July 28 - August 10", "website": "https://www.vbidebate.com/"},
+      {"rank": "2A", "name": "ISD  - Florida", "location": "Florida", "dates": "June 29 - July 12", "website": "Institute for Speech and Debate"},
+      {"rank": "2B", "name": "ISD - North Carolina", "location": "North Carolina", "dates": "June 29 - July 12", "website": "https://ispeechanddebate.com/"},
+      {"rank": "3A", "name": "Victory Brief Institute - Philly", "location": "Philadelphia, PA", "dates": "June 29 - July 12", "website": "https://www.vbidebate.com/"},
+      {"rank": "3B", "name": "ISD - Online", "location": "Online", "dates": "July 15 - July 26", "website": "https://ispeechanddebate.com/"},
+      {"rank": "3C", "name": "Public Forum Boot Camp", "location": "Online", "dates": "Jul 29 0 August 3", "website": "https://www.publicforumboot.camp/"}
+    ],
+    "CX": [
+      {"rank": "1A", "name": "UMICH 7 Week (Modified to 4 weeks)", "location": "Ann Arbor, MI", "dates": "June 23 - August 6", "website": "https://michigandebate.com/"},
+      {"rank": "1B", "name": "UMICH Classic", "location": "Ann Arbor, MI", "dates": "July 11 - August 6", "website": "https://michigandebate.com/"},
+      {"rank": "2A", "name": "Gonzaga - Sophomore", "location": "Spokane, WA", "dates": "June 19 - July 21", "website": "https://www.gonzaga.edu/college-of-arts-sciences/departments/communication-studies/gonzaga-debate/gonzaga-debate-institute"},
+      {"rank": "2B", "name": "Gonzaga - 2 Week", "location": "Spokane, WA", "dates": "July 7 - July 21", "website": "https://www.gonzaga.edu/college-of-arts-sciences/departments/communication-studies/gonzaga-debate/gonzaga-debate-institute"},
+      {"rank": "3", "name": "UTNIF - Sophomore Select", "location": "Austin, TX", "dates": "June 21 - July 7", "website": "https://commstudies.utexas.edu/camps/utnif-debate/policy"}
+    ],
+    "SPEECH": [
+      {"rank": "1A", "name": "UTNIF EX Camp + Extension Session", "location": "Austin, TX", "dates": "June 24-July 10, 2024", "website": "https://commstudies.utexas.edu/camps/utnif-ie"},
+      {"rank": "2A", "name": "UTNIF EX Camp", "location": "Austin, TX", "dates": "June 24-July 7, 2024", "website": "https://commstudies.utexas.edu/camps/utnif-ie"},
+      {"rank": "2B", "name": "GMIF", "location": "Fairfax, VA", "dates": "July 7 - July 21", "website": "http://gmif.gmuforensics.org/"},
+      {"rank": "3A", "name": "ISD  - Florida", "location": "Florida", "dates": "June 29 - July 12", "website": "https://ispeechanddebate.com/"},
+      {"rank": "3B", "name": "ISD - North Carolina", "location": "North Carolina", "dates": "July 14 - July 27", "website": "https://ispeechanddebate.com/"}
+    ]
+  },
+  "third-year": {
+    "LD": [
+      {"rank": "1A", "name": "The Debate Intensive  - 5 Weeks", "location": "Los Angeles, CA", "dates": "July 7 - July 27", "website": "https://www.debateintensive.org/"},
+      {"rank": "1B", "name": "National Symposium for Debate - Flagship", "location": "Minneapolis", "dates": "July 14 - August 3", "website": "https://www.nationalsymposiumfordebate.com/flagship"},
+      {"rank": "2", "name": "TDC Debate Institute", "location": "Austin", "dates": "July 21 - August 3", "website": "https://texasdebatecollective.org/"},
+      {"rank": "3A", "name": "National Symposium for Debate - Houston", "location": "Houston", "dates": "June 30 - July 13", "website": "https://www.nationalsymposiumfordebate.com/"},
+      {"rank": "3B", "name": "VBI - LA", "location": "Los Angeles", "dates": "July 28 - August 10", "website": "https://www.vbidebate.com/"}
+    ],
+    "PF": [
+      {"rank": "1A", "name": "Public Forum Boot Camp", "location": "Minneapolis, MN", "dates": "July 7- July 17", "website": "https://www.publicforumboot.camp/"},
+      {"rank": "1B", "name": "VBI - LA", "location": "Los Angeles, CA", "dates": "July 28 - August 10", "website": "https://www.vbidebate.com/"},
+      {"rank": "2A", "name": "ISD  - Florida", "location": "Florida", "dates": "June 29 - July 12", "website": "https://ispeechanddebate.com/"},
+      {"rank": "2B", "name": "ISD - North Carolina", "location": "North Carolina", "dates": "June 29 - July 12", "website": "https://ispeechanddebate.com/"},
+      {"rank": "3A", "name": "VBI - Philadelphia", "location": "Philadelphia, PA", "dates": "June 29 - July 12", "website": "https://www.vbidebate.com/"}
+    ],
+    "CX": [
+      {"rank": "1A", "name": "UMICH 7 Week", "location": "Ann Arbor, MI", "dates": "June 23 - August 6", "website": "https://michigandebate.com/"},
+      {"rank": "1B", "name": "GDDI - 7 week", "location": "DC, Hanover  NH", "dates": "July 16 - August 3", "website": "https://www.ddidebate.org/our-programs"},
+      {"rank": "2A", "name": "UMICH 7 Week (Modified to 4 weeks)", "location": "Ann Arbor, MI", "dates": "June 23 - August 6", "website": "https://michigandebate.com/"},
+      {"rank": "2B", "name": "DDI - 4 Week", "location": "Hanover NH", "dates": "July 7 - August 8", "website": "https://www.ddidebate.org/our-programs"},
+      {"rank": "3", "name": "UMICH Classic Plus", "location": "Ann Arbor, MI", "dates": "July 7 - August 6", "website": "https://michigandebate.com/"}
+    ],
+    "SPEECH": [
+      {"rank": "1A", "name": "UTNIF EX Camp + Extension Session", "location": "Austin", "dates": "June 24-July 10, 2024", "website": "https://commstudies.utexas.edu/camps/utnif-ie"},
+      {"rank": "2A", "name": "UTNIF EX Camp", "location": "Austin", "dates": "June 24-July 7, 2024", "website": "https://commstudies.utexas.edu/camps/utnif-ie"},
+      {"rank": "2B", "name": "GMIF", "location": "Fairfax, VA", "dates": "July 7 - July 21", "website": "http://gmif.gmuforensics.org/"},
+      {"rank": "3A", "name": "ISD  - Florida", "location": "Florida", "dates": "June 29 - July 12", "website": "https://ispeechanddebate.com/"},
+      {"rank": "3B", "name": "ISD - North Carolina", "location": "North Carolina", "dates": "July 14 - July 27", "website": "https://ispeechanddebate.com/"}
+    ]
+  }
+}
